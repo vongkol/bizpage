@@ -1,0 +1,18 @@
+
+
+.skin-blue .sidebar-menu>li.active>a, 
+.skin-blue .sidebar-menu>li.menu-open>a {
+    color: #fff;
+    background: #3c8dbc;
+}
+.skin-blue .sidebar-menu>li:hover>a{
+    background: #5f6467;
+}
+
+.box{
+    padding: 2px 18px;
+}
+
+.text-small{
+    font-size: 10px;
+}
